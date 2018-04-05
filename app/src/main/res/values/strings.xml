@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">aboutme</string>
+    <string name="powered_by_manchify">Powered by: Manchify</string>
+    <string name="carrera">Ingeniería Informática</string>
+</resources>
